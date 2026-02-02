@@ -7,10 +7,10 @@ Key metrics such as overall Manufacturing Performance, Order fulfillmennt accord
 
 🛠️ Tools & Technologies Used
 Tool        	Purpose
-SQL	          Data extraction, filtering
+SQL	        Data extraction, filtering
 Excel	      Data cleaning, transformation, EDA
-Power BI      Dashboard creation, DAX-based KPIs
-Tableau	      Interactive visualizations and insights 
+Power BI    Dashboard creation, DAX-based KPIs
+Tableau	    Interactive visualizations and insights 
 
 🔍 Key Insights & Visuals: 
 ✅ KPI Cards: Total Produced Qty, Repeat Qty, Rejected Qty, Work Order Qty.
